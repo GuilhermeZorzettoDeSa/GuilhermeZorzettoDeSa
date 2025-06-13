@@ -9,7 +9,7 @@
 ### **My current Skills and Projects**
 - 🔭 I’m currently working on a Hangman Game
 - 🌱 I’m currently learning Data Science
-- 🧠 My main programming skill is Python <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+- 🧠 My main programming skill is Python <img height=10% width=10% src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 
   
 
